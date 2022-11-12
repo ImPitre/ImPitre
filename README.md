@@ -5,9 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImPitre](https://github.com/ImPitre)
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS, JavaScript**
 
-- 📫 How to reach me **ljpitre166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
